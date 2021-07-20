@@ -1,0 +1,13 @@
+{
+  "name": "othello",
+  "version": "0.1.0",
+  "files": [
+    "othello_bg.wasm",
+    "othello.js",
+    "othello_bg.js",
+    "othello.d.ts"
+  ],
+  "module": "othello.js",
+  "types": "othello.d.ts",
+  "sideEffects": false
+}
